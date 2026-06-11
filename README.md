@@ -123,4 +123,3 @@ python azure_vm_pricing_optimizer.py
 
 ---
 
-*Built as part of a portfolio targeting Microsoft Azure Monetization data science roles.*
